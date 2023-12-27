@@ -3,8 +3,7 @@
 I'm a passionate and driven individual with a keen interest in DevOps. DevOps is the power of automation to enhance efficiency and reliability. I thrive on designing and implementing automated workflows, be it configuring infrastructure as code, orchestrating containerized applications, or building robust continuous integration and deployment pipelines.
 
 ## Skills
-* [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) Docker
-* [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) Kubernetes
+* [![My Skills](https://skillicons.dev/icons?i=git,githubactions,docker,kubernetes,ansible,terraform,aws,gcp)](https://skillicons.dev)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahmud-arif)  
